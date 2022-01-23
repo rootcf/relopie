@@ -1,0 +1,23 @@
+{
+  "name": "relopie",
+  "version": "1.0.0",
+  "description": "Relopie Stylish Text Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rootcf/relopie"
+  },
+  "keywords": [
+    "relopie",
+    "stylishtext",
+    "rootcf",
+    "rootie",
+    "text",
+    "stylish"
+  ],
+  "author": "rootcf",
+  "license": "ISC"
+}
